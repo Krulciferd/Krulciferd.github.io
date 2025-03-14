@@ -267,12 +267,7 @@ button:active {
   min-width: 140px;
   padding: 3px;
   text-decoration: none;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  white-space: nowrap;
   cursor: pointer;
-  transition: all 0.3s;
 }
 
 .card-button:hover {
